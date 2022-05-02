@@ -1,0 +1,4 @@
+baseURL = "http://www.megasodigitais.com.br/"
+languageCode = "pt-br"
+title = "Em Construção"
+theme = "blog-theme"
